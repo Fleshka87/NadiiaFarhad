@@ -1,4 +1,4 @@
-Feature: Appointment scheduling
+Feature: Appointment schedule
 
   Scenario: set an appointment
     Given user is on a home page
